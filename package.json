@@ -35,8 +35,6 @@
     "dtslint": "dtslint types"
   },
   "peerDependencies": {
-    "react": "16 - 18",
-    "react-dom": "16 - 18",
     "filepond": ">=3.7.x < 5.x"
   },
   "devDependencies": {
